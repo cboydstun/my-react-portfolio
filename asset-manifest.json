@@ -1,22 +1,13 @@
 {
-  "files": {
-    "main.css": "/my-react-portfolio/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/my-react-portfolio/static/js/main.c585733f.chunk.js",
-    "main.js.map": "/my-react-portfolio/static/js/main.c585733f.chunk.js.map",
-    "runtime-main.js": "/my-react-portfolio/static/js/runtime-main.6ed9587e.js",
-    "runtime-main.js.map": "/my-react-portfolio/static/js/runtime-main.6ed9587e.js.map",
-    "static/js/2.d6b938c9.chunk.js": "/my-react-portfolio/static/js/2.d6b938c9.chunk.js",
-    "static/js/2.d6b938c9.chunk.js.map": "/my-react-portfolio/static/js/2.d6b938c9.chunk.js.map",
-    "index.html": "/my-react-portfolio/index.html",
-    "precache-manifest.c3afbfb408cce808bfeda91f74446ec7.js": "/my-react-portfolio/precache-manifest.c3afbfb408cce808bfeda91f74446ec7.js",
-    "service-worker.js": "/my-react-portfolio/service-worker.js",
-    "static/css/main.27fd15f6.chunk.css.map": "/my-react-portfolio/static/css/main.27fd15f6.chunk.css.map",
-    "static/js/2.d6b938c9.chunk.js.LICENSE.txt": "/my-react-portfolio/static/js/2.d6b938c9.chunk.js.LICENSE.txt"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.6ed9587e.js",
-    "static/js/2.d6b938c9.chunk.js",
-    "static/css/main.27fd15f6.chunk.css",
-    "static/js/main.c585733f.chunk.js"
-  ]
+  "main.css": "/my-react-portfolio/static/css/main.06c4cadb.chunk.css",
+  "main.js": "/my-react-portfolio/static/js/main.1db7ef00.chunk.js",
+  "main.js.map": "/my-react-portfolio/static/js/main.1db7ef00.chunk.js.map",
+  "static/js/1.7b70c3a4.chunk.js": "/my-react-portfolio/static/js/1.7b70c3a4.chunk.js",
+  "static/js/1.7b70c3a4.chunk.js.map": "/my-react-portfolio/static/js/1.7b70c3a4.chunk.js.map",
+  "runtime~main.js": "/my-react-portfolio/static/js/runtime~main.02d1e573.js",
+  "runtime~main.js.map": "/my-react-portfolio/static/js/runtime~main.02d1e573.js.map",
+  "static/css/main.06c4cadb.chunk.css.map": "/my-react-portfolio/static/css/main.06c4cadb.chunk.css.map",
+  "index.html": "/my-react-portfolio/index.html",
+  "precache-manifest.5d8f28a640938f93bbb7e71fd550490f.js": "/my-react-portfolio/precache-manifest.5d8f28a640938f93bbb7e71fd550490f.js",
+  "service-worker.js": "/my-react-portfolio/service-worker.js"
 }
