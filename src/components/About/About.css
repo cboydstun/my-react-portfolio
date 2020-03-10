@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Yeseva+One&display=swap');
+.about {
+    content: "";
+    clear: both;
+    display: flex;
+    flex-direction: row;
+    padding: 0em 10em 12em 10em;
+}
+
+.aboutText {
+    position: relative;
+    font-family: 'Playfair Display', serif;
+    text-align: unset;
+}
+
+.aboutText h1 {
+    font-size: 3em;
+    padding-bottom: 20px;
+    color: #2a2a2a;
+    text-align: left;
+    letter-spacing: .1em;
+    font-family: 'Yeseva One', cursive;
+}
+
+.aboutText p {
+    font-size: 1em;
+    text-align: left;
+}
+
+.about img {
+    float: right;
+    height: auto;
+    width: 30%;
+    padding: 0 0 6px 60px;
+}
+
+.available {
+    padding-top: 79px;
+    font-family: 'Yeseva One', cursive;
+    color: #2a2a2a;
+}
+
+a.open {
+    color: #464646;
+    text-decoration: none;
+    transition: 0.3s ease all;
+}
+
+a.open:hover {
+    box-shadow: 0 10px 0 0 rgba(0, 0, 0, 0.19);
+}
+
+.open {
+    font-size: 1em;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    display: inline-block;
+    text-align: center;
+    width: 5em;
+    font-weight: bold;
+    padding: 5px 0px;
+    border-radius: 2px;
+    position: relative;
+    box-shadow: 0px 3px 1px 0px rgba(0, 0, 0, 0.1);
+}
+
+/* Mobile Devices */
+
+@media only screen and (max-width: 768px) {
+    .about {
+        padding: 0em 2em 12em 2em;
+    }
+    .aboutText h1 {
+        font-size: 35px;
+        display: flex;
+    }
+    .about img {
+        width: 50%;
+        padding: 0 0 6px 20px;
+    }
+    .aboutText p {
+        display: block;
+    }
+}
