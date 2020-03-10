@@ -5,10 +5,10 @@ nav {
     font-size: 1.05em;
     font-weight: bolder;
     position: sticky;
-    text-align: right;
-    top: 3em;
     padding-right: 50px;
     z-index: 100;
+    background-color: red;
+    justify-items: right;
 }
 
 nav li {
@@ -18,20 +18,10 @@ nav li {
 
 nav li .link {
     text-decoration: none;
-    color: #383838;
     padding: 1em;
-    opacity: 0.5;
-    transition: all 0.2s ease-in-out;
+    transition: all 0.5s ease-in-out;
 }
 
-li .link:hover {
-    opacity: 1;
-}
-
-.active {
-    color: #464646;
-    opacity: 10;
-}
 
 /* Mobile Devices */
 
